@@ -75,4 +75,50 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'https://docs.stackbit.com/'
+  - type: CardsSection
+    title: Cards Section Title
+    subtitle: The section subtitle
+    items:
+      - type: Card
+        title: Apples
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/nextjs.svg
+          altText: First item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+      - type: Card
+        title: Pears
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/mui-5.svg
+          altText: Second item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+      - type: Card
+        title: Bananas
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        image:
+          type: Image
+          url: /images/ts.svg
+          altText: Third item image
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
 ---
