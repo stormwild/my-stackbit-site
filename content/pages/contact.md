@@ -3,7 +3,7 @@ type: Page
 title: Contact Us
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Contact Us
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
       Section', or using the sidebar.
